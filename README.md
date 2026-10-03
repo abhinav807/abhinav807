@@ -21,7 +21,7 @@
 </table>
 
 <p>Web Developer
-VKG Law Firm</p>
+and Founder @ GoldenHour</p>
 
 <h2>Open-source toolbox</h2>
 
